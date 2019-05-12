@@ -1,0 +1,38 @@
+*gloryhost
+I sung of Chaos and Eternal Night, Taught by the heav'nly Muse to venture down The dark descent, and up to reascend¡­
+gloryhost.quals2019.oooverflow.io 9999
+
+
+*ASRybaB
+Just RSA
+asrybab.quals2019.oooverflow.io 1280
+Files:
+challenge.py
+
+
+*LCARS000
+Library Computer Access/Retrieval System
+lcars000.quals2019.oooverflow.io 5000
+Files:
+LCARS
+crypto.sys
+echo.sys
+init.sys
+loader.sys
+
+*babytrace
+Announcing the beta launch of Program Interactive Trace As a Symbolic Service: PITASS!
+babytrace.quals2019.oooverflow.io 5000
+Files:
+Dockerfile
+headerquery
+pitas.py
+
+
+* speedrun-012
+The TranspOOOrter.
+hint: https://gist.github.com/adamdoupe/9fb1fed69421e789a0a623af912e456a
+speedrun-012.quals2019.oooverflow.io 31337
+Files:
+
+speedrun-012
